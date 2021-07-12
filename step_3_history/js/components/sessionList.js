@@ -13,7 +13,6 @@ class SessionList extends HTMLElement {
     this.connectedCallback = this.connectedCallback.bind(this);
     this.setSessions = this.setSessions.bind(this);
     this.render = this.render.bind(this);
-    this.onClickSession = this.navigateToSessionDetails.bind(this);
   }
 
   setSessions(value) {

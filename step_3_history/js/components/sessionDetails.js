@@ -25,7 +25,6 @@ class SessionDetails extends HTMLElement {
     this.connectedCallback = this.connectedCallback.bind(this);
     this.attributeChangedCallback = this.attributeChangedCallback.bind(this);
     this.render = this.render.bind(this);
-    this.navigateToSessions = this.navigateToSessionList.bind(this);
   }
 
   connectedCallback() {
