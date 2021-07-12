@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "A Look at the Apollo Guidance Computer",
+    "description": "Mankind has accomplished many great feats of engineering and willpower, but few as awesome as putting a human being on the surface of the moon. Men and women from all walks of life, all sorts of techincal backgrounds and specialties came together to do the impossible. A large part of the success of the mission depended on the Apollo Guidance Computer. The AGC was truly ahead of its time despite most of it looking low-tech and simplistic by today's standards. In this session, we'll take an in-depth look at the Apollo Guidance Computer - how it was architected and built, some of the clever innovations that were used to push the envelope of what was possible in 1969, and even dig in to some of the code that helped mankind land on the moon and return safely home.",
+    "speaker": "Adam Barney",
+    "date": "Wednesday, 1:15 PM - 2:15 PM"
+  },
+  {
+    "id": 2,
+    "title": "Animation on the web",
+    "description": "There are some powerful tools to animate content on your site. It could be as simple as adding a little animation to an SVG on your site to animating layout and content changes to have more of a flow to illustrate the transition to the user. We will discuss JS libraries such as GSAP (Greensock) and Lottie as well as explore what CSS animations are capable of. We will also take a dive into SVG animation with tools like Snap.svg so that you can make extremly lightweight and responsive animations on your site.",
+    "speaker": "Shawn Hellwege",
+    "date": "Wednesday, 10:00 AM - 11:00 AM"
+  },
+  {
+    "id": 3,
+    "title": "Application Security or Hacking yourself everyone else is..",
+    "description": "Software security isn't a tool or a library, everyone knows that you should check your parameters, and watch out for SQL injection, but is that really enough? If you have never had the opportunity to spend time hacking your own applications, you are really doing yourself a disservice. More than ever, the web is becoming an increasingly hostile environment, and because of it developers really need to step up their game. In this session we will go over some of the methodologies that we use internally to test applications, helping developers to think more strategically about designing applications for general security. As part of this conversation I will go over active attacks that we have seen against production sites using steralized examples.",
+    "speaker": "James McKee",
+    "date": "Tuesday, 8:30 AM - 4:30 PM"
+  }
+]
